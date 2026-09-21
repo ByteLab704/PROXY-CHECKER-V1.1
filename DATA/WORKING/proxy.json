@@ -1,0 +1,52 @@
+{
+    "proxies": [
+        {
+            "proxy": "95.211.174.135:3128",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 2.015
+        },
+        {
+            "proxy": "153.51.201.35:999",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 2.878
+        },
+        {
+            "proxy": "136.226.118.198:9480",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 2.162
+        },
+        {
+            "proxy": "112.169.99.71:8004",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 3.432
+        },
+        {
+            "proxy": "213.32.70.99:3128",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 1.657
+        },
+        {
+            "proxy": "91.134.141.4:3128",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 1.671
+        },
+        {
+            "proxy": "208.115.214.157:3128",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 4.609
+        },
+        {
+            "proxy": "176.111.37.5:39811",
+            "type": "HTTP",
+            "status": "working",
+            "response_time": 5.639
+        }
+    ]
+}
